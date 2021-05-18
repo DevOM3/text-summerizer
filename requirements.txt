@@ -12,3 +12,4 @@ Jinja2~=3.0.0
 itsdangerous~=2.0.0
 joblib~=1.0.1
 setuptools~=49.2.1
+gunicorn==20.1.0
